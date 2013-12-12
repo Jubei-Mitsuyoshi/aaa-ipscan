@@ -1,0 +1,4 @@
+Changes in 3.2.1:
+- New Windows installer that includes both 32 and 64-bit binaries
+- More improvements for Windows binary (better icon, manifest, etc)
+- Issue with netmask combo fixed on OS X
